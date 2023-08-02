@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Note Compose</string>
+    <string name="add_note_button_text">Add note</string>
+    <string name="sort_notes_button">Sort notes</string>
+    <string name="date_order_button">Date</string>
+    <string name="title_order_button">Title</string>
+    <string name="color_order_button">Color</string>
+    <string name="descending_order_button">Descending</string>
+    <string name="ascending_orderr_button">Ascending</string>
+    <string name="your_note_title">Your note</string>
+    <string name="delete_note_button">Delete note</string>
+    <string name="enter_some_content_hint">Enter some content...</string>
+    <string name="enter_title_hint">Enter title...</string>
+    <string name="restore_note_message">Do you want to restore a note?</string>
+    <string name="yes_answer">Yes</string>
+</resources>
